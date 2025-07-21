@@ -12,10 +12,10 @@ Run as root in an already installed Arch Linux system (chroot or fresh install):
 
 For GNOME (Wayland):
 bash
-curl -L https://raw.githubusercontent.com/your-username/arch-t440-optimized/main/arch-t440-gnome-wayland.sh | bash  
+curl -L https://raw.githubusercontent.com/P3nth00/arch-t440-optimized/main/arch-t440-gnome-wayland.sh | bash  
 For KDE Plasma:
 bash
-curl -L https://raw.githubusercontent.com/your-username/arch-t440-optimized/main/arch-t440-ultimate.sh | bash  
+curl -L https://raw.githubusercontent.com/P3nth00/arch-t440-optimized/main/arch-t440-ultimate.sh | bash  
 ⚠️ Prerequisites:
 
 Base Arch Linux installed (official guide)
@@ -79,7 +79,7 @@ arch-chroot /mnt
 Run the script:
 
 bash
-curl -LO https://raw.githubusercontent.com/your-username/arch-t440-optimized/main/arch-t440-gnome-wayland.sh  
+curl -LO https://raw.githubusercontent.com/P3nth00/arch-t440-optimized/main/arch-t440-gnome-wayland.sh  
 chmod +x arch-t440-gnome-wayland.sh  
 ./arch-t440-gnome-wayland.sh  
 Finalize:
